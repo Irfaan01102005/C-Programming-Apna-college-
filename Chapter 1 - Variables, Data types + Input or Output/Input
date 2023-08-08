@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main(){
+ 
+   int age;
+   printf("enter age");
+   
+   scanf("%d",&age);    /*age ko enter kiya aur memory ke andar age variable 
+                         jis bhi location par point kar raha tha vaha par  
+                          jake hamne age ko store karadiya*/
+
+   printf("age is : %d",age);
+
+    return 0;
+}
