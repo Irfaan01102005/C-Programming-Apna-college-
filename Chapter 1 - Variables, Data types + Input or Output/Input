@@ -9,7 +9,7 @@ int main(){
                          jis bhi location par point kar raha tha vaha par  
                           jake hamne age ko store karadiya*/
 
-   printf("age is : %d",age);
+   printf("age is : %d",age); //printf ne number vapas maanga toh uske baad hamara print hogaya age is:
 
     return 0;
 }
