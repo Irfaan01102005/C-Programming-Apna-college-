@@ -11,5 +11,8 @@ int main(){
      int years=2;
     int newAge=oldAge+years;
 
+     int x,y,z;
+     x=y=z=1;
+
     return 0;
 }
