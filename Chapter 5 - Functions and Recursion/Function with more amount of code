@@ -17,5 +17,5 @@ int main(){
 void printHello(){
 
     printf("Hello!\n");
-    printf("My Name is Irfaan\n");
+    printf("My Name is Irfaan\n");  //to do more work without changing the above code in main
 }
