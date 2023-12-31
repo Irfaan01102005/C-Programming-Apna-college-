@@ -6,7 +6,10 @@ int main(){
     int*ptr = &age;
 
     printf("%p\n",&age);
-    printf("%u\n",&age);
+    printf("%u\n",&age);   // age ka adress ptr ke ander store hai
+
     printf("%u\n",ptr);
+
+    printf("%u\n",&ptr);
     return 0;
 }
