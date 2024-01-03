@@ -12,7 +12,7 @@ int main(){
     printf("enter math : ");
     scanf("%d",&marks[2]);
 
-    printf("phy = %d,chem = %d, math = %d",marks[0],marks[1],marks[2]);
+    printf("phy = %d,chem = %d, math = %d",marks[0],marks[1],marks[2]);// marks position-vise store karaya he
 
     return 0;
 }
